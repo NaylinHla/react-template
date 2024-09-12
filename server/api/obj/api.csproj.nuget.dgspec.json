@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nayli\\Desktop\\react template\\server\\api\\api.csproj": {}
+    "C:\\Users\\nayli\\Documents\\GitHub\\react template\\server\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nayli\\Desktop\\react template\\server\\api\\api.csproj": {
+    "C:\\Users\\nayli\\Documents\\GitHub\\react template\\server\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nayli\\Desktop\\react template\\server\\api\\api.csproj",
+        "projectUniqueName": "C:\\Users\\nayli\\Documents\\GitHub\\react template\\server\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\nayli\\Desktop\\react template\\server\\api\\api.csproj",
+        "projectPath": "C:\\Users\\nayli\\Documents\\GitHub\\react template\\server\\api\\api.csproj",
         "packagesPath": "C:\\Users\\nayli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nayli\\Desktop\\react template\\server\\api\\obj\\",
+        "outputPath": "C:\\Users\\nayli\\Documents\\GitHub\\react template\\server\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nayli\\AppData\\Roaming\\NuGet\\NuGet.Config",
